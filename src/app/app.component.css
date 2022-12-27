@@ -1,0 +1,26 @@
+div {
+  text-align: center;
+}
+
+hr {
+  border: 1px dashed red;
+}
+
+div.autoscroll {
+  /* border: 1px dashed red; */
+  margin-top: 40px;
+  overflow-y: auto;
+}
+
+navbar {
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  display: inline-block;
+  width: 100%;
+  background-color: blue;
+}
+
+fieldset input[type="checkbox"] {
+  border: 1px red dashed;
+}

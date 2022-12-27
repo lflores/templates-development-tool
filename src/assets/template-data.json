@@ -1,0 +1,21 @@
+{
+  "given_name": "Esteban",
+  "givenName": "Yuliet",
+  "accountName": "Cuenta La Puertorriqueña dslkfsadnflksdflkasdfkjasdfsajdfnaskjsf",
+  "userName": "yulietsosa-uat",
+  "claimReason": "Mi Claim Reason",
+  "claimId": "CL12345",
+  "finantialInstitution": "La Puertorriqueña",
+  "mobilePhoneNumber": "787 233 4456",
+  "fullName": "Yuliet Sosa",
+  "subject": "Make a test of service",
+  "message": "Make a test of the best service",
+  "contactUsId": "CU12345",
+  "lastFourDigits": "7862",
+  "transactionId": "TRX1234",
+  "merchantDescription": "Insumos Comida S.A.",
+  "authorizedAmount": "100.00",
+  "atmGivenAmount": "50.00",
+  "claimAmount": "50.00",
+  "claimComents": "Mis comentarios no interesan"
+}
