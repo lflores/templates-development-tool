@@ -1,2 +1,3 @@
 # templates-development-tool
-Created with CodeSandbox
+Esta es una herramienta para que los diseñadores puedan trabajar con el contenido y verlo como funcionará pudiendo ver el resultado rápidamente
+
